@@ -15,5 +15,5 @@
 Janitoo docker image
 ====================
 
-The most stable docker image of Janitoo.
+The stable docker image of Janitoo.
 
