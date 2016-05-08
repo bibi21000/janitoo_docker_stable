@@ -2,7 +2,7 @@ FROM bibi21000/janitoo
 
 MAINTAINER bibi21000 <bibi21000@gmail.com>
 
-ENV JNTDVERSION=1
+ENV JNTD_VERSION 1
 
 RUN cat /etc/issue
 RUN env
