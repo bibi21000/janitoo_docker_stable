@@ -17,3 +17,6 @@ Janitoo docker image
 
 The stable docker image of Janitoo.
 
+Documentation
+=============
+You can browse online documentation here : https://bibi21000.github.io/janitoo_docker_tests/.
