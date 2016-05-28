@@ -23,3 +23,7 @@ The stable docker image of Janitoo.
 Documentation
 =============
 You can browse online documentation here : https://bibi21000.github.io/janitoo_docker_tests/.
+
+Tutorial
+========
+You can find a tutorial here : https://bibi21000.github.io/janitoo_tutorial/.
